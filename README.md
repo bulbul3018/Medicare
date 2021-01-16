@@ -6,3 +6,12 @@
 - Extra information regarding this medicine to remind the owner.
 - #### The app will send the notification as well as alarm to take medicine.
 - Reminds with the name of the medicine as well as amount to take.
+
+## How to RUN
+- Download the files from Medicare 
+- Step 1: Open Android Studio. After that you Click on “Open an existing Android Studio project”.
+
+- Step 2: After that Select the File location where the Medicare file is located. We located and selected “Medicare” project and then Click OK.
+
+- Step 3: After that click on Projects >> app and then Click java and choose “MainActivity” file. Here your java file for coding Android programming  will be opened.
+- Step 4: After that Click res and then click layout and choose activity_main.xml file. Here your xml file for designing Android UI will be opened.
