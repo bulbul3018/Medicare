@@ -4,7 +4,7 @@
 - Can add the times at which each mechine must be taken as pescribed.
 - Can add the amounts of medicine to take each time.
 - Extra information regarding this medicine to remind the owner.
-- #### The app will send the notification as well as alarm to take medicine.
+- ### The app will send the notification as well as alarm to take medicine.
 - Reminds with the name of the medicine as well as amount to take.
 
 ## How to RUN
@@ -16,7 +16,7 @@
 - Step 3: After that click on Projects >> app and then Click java and choose “MainActivity” file. Here your java file for coding Android programming  will be opened.
 - Step 4: After that Click res and then click layout and choose activity_main.xml file. Here your xml file for designing Android UI will be opened.
 
-- #### Run on an emulator
+- ### Run on an emulator
 - In Android Studio, create an Android Virtual Device (AVD) that the emulator can use to install and run your app.
 - In the toolbar, select your app from the run/debug configurations drop-down menu.
 
